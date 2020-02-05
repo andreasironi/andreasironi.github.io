@@ -1,2 +1,3 @@
 name: This site is blue
 markdown: kramdown
+baseurl: /test-blue
